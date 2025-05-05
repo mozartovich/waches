@@ -1,5 +1,5 @@
 <?php
-	$to = "kievinvestigator@gmail.com";
+	$to = "mozartovich@gmail.com";
 	if ( isset($_POST['name']) && isset($_POST['email']) ) {
 		/*$headers = 'From:name@bavcrm.pp.ua';*/
 		$headers = "Content-type: text/plain; charset=utf-8 \r\n";
